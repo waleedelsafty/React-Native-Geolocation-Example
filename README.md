@@ -1,6 +1,6 @@
 # React Native Geolocation Example
 
-this exampel is a fork from Alhydra/React-Native-Geolocation-Example
+this exampel is a fork from [Alhydra/React-Native-Geolocation-Example](Alhydra/React-Native-Geolocation-Example)
 
 the original example had expo 36 .
 updating to expo 44 and removing deprecated [Permissions.askAsync(Permissions.LOCATION);]
